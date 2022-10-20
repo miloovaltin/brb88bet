@@ -1,16 +1,16 @@
 {
-"name": "brb88bet",
-"theme": "brb88bet",
-"version": "4.6.4",
-"description": "brb88bet ทางเข้าเว็บสล็อตเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
-"keywords": [
-"brb88bet",
-"brb88bet เครดิตฟรี",
-"brb88bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/brb88bet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "brb88bet",
+  "theme": "brb88bet",
+  "version": "4.7.0",
+  "description": "brb88bet ทางเข้าเว็บสล็อตเว็บตรง ไม่ผ่านเอเย่นต์ รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "brb88bet",
+    "brb88bet เครดิตฟรี",
+    "brb88bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/brb88bet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
